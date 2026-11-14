@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>Unraid templates for the open-source software made by BRF Tech.
+
+**filex** - a self-hosted web file manager for local folders and S3, SFTP, WebDAV, FTP and SMB storage, with sharing, search, version history and encrypted folders. MIT licensed. Source: https://github.com/BRF-Tech/filex
+
+Problems with an app go to the issue tracker of its own repository (filex: https://github.com/BRF-Tech/filex/issues). Problems with a template go to https://github.com/BRF-Tech/unraid-templates/issues.</Profile>
+  <Icon>https://raw.githubusercontent.com/BRF-Tech/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://github.com/BRF-Tech/unraid-templates</WebPage>
+</CommunityApplications>
